@@ -1,4 +1,4 @@
 # Whitney High School Robotics Update Info
-Whitney High School Robotics Internship Site
+New Schedule below
 
 ![Alt text for the image](/schmoey.png)
